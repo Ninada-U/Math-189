@@ -1,0 +1,3 @@
+If a question was not answered or improperly answered, then it was coded as 99.
+Those respondents who had never played a video game or who did not at all like playing video games 
+	were asked to skip many of the questions.
